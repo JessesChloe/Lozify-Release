@@ -3,7 +3,7 @@
   "versionName": "1.3.6",
   "releaseDate": "2026-09-05",
   "changelog": "🎉【Lozify 最新版本更新】\n🎙️ 1. 语音速记波形条防误触加固：未播放时锁定静态声波，松手精准跳转，多卡片播放绝对隔离；\n🎵 2. 全局黑胶胶囊新增微型独立关闭按键；\n🔗 3. 双链弹窗语态全面优化为自然表达，支持居中分割线与轻量内嵌预览；\n⚡ 4. 稳定性提升与细节打磨。",
-  "downloadUrl": "https://gitee.com/muxsans/lozify-note/releases/download/v1.3.6/Lozify-v1.3.6.apk",
-  "githubDownloadUrl": "https://github.com/JessesChloe/Lozify-Note/releases/download/v1.3.6/Lozify-v1.3.6.apk",
+  "downloadUrl": "https://gitee.com/muxsans/lozify-release/releases/download/v1.3.6/Lozify-v1.3.6.apk",
+  "githubDownloadUrl": "https://github.com/JessesChloe/Lozify-Release/releases/download/v1.3.6/Lozify-v1.3.6.apk",
   "isForceUpdate": false
 }

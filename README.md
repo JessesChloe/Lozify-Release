@@ -9,8 +9,8 @@
 
 | 渠道 | 下载链接 | 适用平台 |
 | :--- | :--- | :--- |
-| **Gitee 国内镜像（推荐）** | [点击下载最新 Release APK](https://gitee.com/muxsans/lozify-note/releases) | Android 8.0+ |
-| **GitHub Releases** | [点击下载最新 Release APK](https://github.com/JessesChloe/Lozify-Note/releases) | Android 8.0+ |
+| **Gitee 国内镜像（推荐）** | [点击下载最新 Release APK](https://gitee.com/muxsans/lozify-release/releases) | Android 8.0+ |
+| **GitHub Releases** | [点击下载最新 Release APK](https://github.com/JessesChloe/Lozify-Release/releases) | Android 8.0+ |
 
 ---
 
