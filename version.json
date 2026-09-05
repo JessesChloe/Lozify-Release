@@ -1,9 +1,9 @@
 {
-  "versionCode": 16,
-  "versionName": "1.3.6",
+  "versionCode": 17,
+  "versionName": "1.3.7",
   "releaseDate": "2026-09-05",
-  "changelog": "🎉【Lozify 最新版本更新】\n🎙️ 1. 语音速记波形条防误触加固：未播放时锁定静态声波，松手精准跳转，多卡片播放绝对隔离；\n🎵 2. 全局黑胶胶囊新增微型独立关闭按键；\n🔗 3. 双链弹窗语态全面优化为自然表达，支持居中分割线与轻量内嵌预览；\n⚡ 4. 稳定性提升与细节打磨。",
-  "downloadUrl": "https://gitee.com/muxsans/lozify-release/releases/download/v1.3.6/Lozify-v1.3.6.apk",
-  "githubDownloadUrl": "https://github.com/JessesChloe/Lozify-Release/releases/download/v1.3.6/Lozify-v1.3.6.apk",
+  "changelog": "🎉【Lozify v1.3.7 更新公告】\n🎙️ 1. 语音速记波形条防误触防御：未播放状态全面静态锁定，恢复抬手精准 Seek，多卡片播放绝对隔离绝不串台；\n🎵 2. 全局黑胶唱片微型胶囊：新增独立极简关闭按键（×），支持平滑下沉退出；\n🔗 3. 双链弹窗体验重塑：文案自然语态升级（“引用了”与“被提及”），采用 flomo 式优雅分割线与轻量内嵌正文预览卡片，支持多层下钻与返回；\n🚀 4. 穿梭定位与自愈系统增强：新增主页时间轴一键穿梭直达按键，加固基于标题锚点的错位关联自愈防御；\n🛡️ 5. 纯净发布渠道架构升级，性能与交互体验深度调优。",
+  "downloadUrl": "https://gitee.com/muxsans/lozify-release/releases/download/v1.3.7/Lozify-v1.3.7.apk",
+  "githubDownloadUrl": "https://github.com/JessesChloe/Lozify-Release/releases/download/v1.3.7/Lozify-v1.3.7.apk",
   "isForceUpdate": false
 }
