@@ -1,9 +1,9 @@
 {
-  "versionCode": 17,
-  "versionName": "1.3.7",
-  "releaseDate": "2026-09-05",
-  "changelog": "🎉【Lozify v1.3.7 更新公告】\n🎙️ 1. 语音速记波形条防误触防御：未播放状态全面静态锁定，恢复抬手精准 Seek，多卡片播放绝对隔离绝不串台；\n🎵 2. 全局黑胶唱片微型胶囊：新增独立极简关闭按键（×），支持平滑下沉退出；\n🔗 3. 双链弹窗体验重塑：文案自然语态升级（“引用了”与“被提及”），采用 flomo 式优雅分割线与轻量内嵌正文预览卡片，支持多层下钻与返回；\n🚀 4. 穿梭定位与自愈系统增强：新增主页时间轴一键穿梭直达按键，加固基于标题锚点的错位关联自愈防御；\n🛡️ 5. 纯净发布渠道架构升级，性能与交互体验深度调优。",
-  "downloadUrl": "https://gitee.com/muxsans/lozify-release/releases/download/v1.3.7/Lozify-v1.3.7.apk",
-  "githubDownloadUrl": "https://github.com/JessesChloe/Lozify-Release/releases/download/v1.3.7/Lozify-v1.3.7.apk",
+  "versionCode": 18,
+  "versionName": "1.3.8",
+  "releaseDate": "2026-09-06",
+  "changelog": "🎉【Lozify v1.3.8 更新公告】\n📖 1. 全屏沉浸阅读器体验重塑：修复选区水滴手柄二次拖拽失灵问题，两侧手柄调节丝滑自如；支持点击屏幕任意空白区域、顶部导航栏或系统返回键瞬时取消高亮选区；\n🔗 2. 每日回顾与随机漫步双链栏全景补齐：卡片底栏完整呈现“引用了”（出链）与“被提及”（反链），彻底根除知识孤岛；全屏时光机全面打通正文与底栏双链交互，支持一键呼出详情轻弹窗与多层穿梭；\n📱 3. 桌面小部件全面升级：支持真随机漫步抽取、Todo 待办 Markdown 精致原生排版、桌面随心听音频播放胶囊，点击卡片直接滑入全屏沉浸阅读器；\n⌨️ 4. flomo 级键盘推升与动态舒展：输入框与软键盘 1:1 绝对同频咬合上升，卡片高度随键盘推升从单行平滑舒展开来，彻底消灭动画抢跑与遮挡；\n🎙️ 5. 语音速记录音常亮防御：录音全流程引入 View 与 Window 双保险常亮机制，彻底防御熄屏导致的录音静音与后台进程休眠；\n🏷️ 6. 标签绝对居中与高分屏切字防御：重构高分屏字宽测算算法，彻底消灭右侧切字，实现标签在正文及药丸内部的双重像素级绝对居中。",
+  "downloadUrl": "https://gitee.com/muxsans/lozify-release/releases/download/v1.3.8/Lozify-v1.3.8.apk",
+  "githubDownloadUrl": "https://github.com/JessesChloe/Lozify-Release/releases/download/v1.3.8/Lozify-v1.3.8.apk",
   "isForceUpdate": false
 }
