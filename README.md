@@ -5,12 +5,12 @@
 
 ---
 
-## 📱 最新版本下载 (v1.4.0)
+## 📱 最新版本下载 (v1.4.2)
 
 | 发布渠道 | 下载链接 | 推荐指数 | 适用系统 |
 | :--- | :--- | :---: | :--- |
-| **Gitee 官方高速镜像** | [📥 点击下载 Lozify-v1.4.0.apk](https://gitee.com/muxsans/lozify-release/releases) | ⭐⭐⭐⭐⭐ (国内首选) | Android 8.0 及以上 |
-| **GitHub Releases** | [📥 点击下载 Lozify-v1.4.0.apk](https://github.com/JessesChloe/Lozify-Release/releases) | ⭐⭐⭐⭐ (海外/直连) | Android 8.0 及以上 |
+| **Gitee 官方高速镜像** | [📥 点击下载 Lozify-v1.4.2.apk](https://gitee.com/muxsans/lozify-release/releases) | ⭐⭐⭐⭐⭐ (国内首选) | Android 8.0 及以上 |
+| **GitHub Releases** | [📥 点击下载 Lozify-v1.4.2.apk](https://github.com/JessesChloe/Lozify-Release/releases) | ⭐⭐⭐⭐ (海外/直连) | Android 8.0 及以上 |
 
 > 💡 **更新提示**：应用内已内置增量更新检测服务，后续有新版本发布时，将在应用内弹出轻量更新提示。
 
