@@ -1,9 +1,9 @@
 {
-  "versionCode": 23,
-  "versionName": "1.4.2",
-  "releaseDate": "2026-11-09",
-  "changelog": "1. webdav测试连接或者双向同步，地址错误时报错时间缩短。\n2. 设置页面内置交流群。\n3. 待办框和文字对齐。\n4. flomo导入新增。\n5. 双击打开笔记编辑。\n6. 剪藏软件新增LOFTER，快手。\n7. 标签页批量功能更新。",
-  "downloadUrl": "https://gitee.com/muxsans/lozify-release/releases/download/v1.4.2/Lozify-v1.4.2.apk",
-  "githubDownloadUrl": "https://github.com/JessesChloe/Lozify-Release/releases/download/v1.4.2/Lozify-v1.4.2.apk",
+  "versionCode": 24,
+  "versionName": "1.4.3",
+  "releaseDate": "2026-11-22",
+  "changelog": "1. 新功能：语音转文字\n2. 新功能：markdown编辑器功能\n3. 新功能：创建、编辑卡片时支持上拉进入全屏编辑\n4. 新功能：支持长按+语音输入\n5. 修复Flomo导入\n6. 修改普通用户剪藏次数为每月15次\n7. 删除部分场景下的横幅提醒\n8. 修复小部件提示异常问题",
+  "downloadUrl": "https://gitee.com/muxsans/lozify-release/releases/download/v1.4.3/Lozify-v1.4.3.apk",
+  "githubDownloadUrl": "https://github.com/JessesChloe/Lozify-Release/releases/download/v1.4.3/Lozify-v1.4.3.apk",
   "isForceUpdate": false
 }
