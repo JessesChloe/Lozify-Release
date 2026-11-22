@@ -1,9 +1,9 @@
 {
-  "versionCode": 24,
-  "versionName": "1.4.3",
+  "versionCode": 25,
+  "versionName": "1.4.4",
   "releaseDate": "2026-11-22",
-  "changelog": "1. 新功能：语音转文字\n2. 新功能：markdown编辑器功能\n3. 新功能：创建、编辑卡片时支持上拉进入全屏编辑\n4. 新功能：支持长按+语音输入\n5. 修复Flomo导入\n6. 修改普通用户剪藏次数为每月15次\n7. 删除部分场景下的横幅提醒\n8. 修复小部件提示异常问题",
-  "downloadUrl": "https://gitee.com/muxsans/lozify-release/releases/download/v1.4.3/Lozify-v1.4.3.apk",
-  "githubDownloadUrl": "https://github.com/JessesChloe/Lozify-Release/releases/download/v1.4.3/Lozify-v1.4.3.apk",
+  "changelog": "1. 优化剪藏：修复抖音短视频剪藏功能\n2. 新功能：语音转文字\n3. 新功能：markdown编辑器功能\n4. 新功能：创建、编辑卡片时支持上拉进入全屏编辑\n5. 新功能：支持长按+语音输入\n6. 修复Flomo导入\n7. 修改普通用户剪藏次数为每月15次\n8. 删除部分场景下的横幅提醒\n9. 修复小部件提示异常问题",
+  "downloadUrl": "https://gitee.com/muxsans/lozify-release/releases/download/v1.4.4/Lozify-v1.4.4.apk",
+  "githubDownloadUrl": "https://github.com/JessesChloe/Lozify-Release/releases/download/v1.4.4/Lozify-v1.4.4.apk",
   "isForceUpdate": false
 }
